@@ -1,0 +1,27 @@
+{
+  "name": "photo-frame-master",
+  "version": "1.0.0",
+  "description": "Photo and video display from puppeteer",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geeveehegde/photo-frame.git"
+  },
+  "keywords": [
+    "Puppeteer",
+    "photo"
+  ],
+  "author": "geeveehegde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geeveehegde/photo-frame/issues"
+  },
+  "homepage": "https://github.com/geeveehegde/photo-frame#readme",
+  "dependencies": {
+    "puppeteer-core": "^5.2.1"
+  }
+}

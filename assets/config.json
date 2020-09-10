@@ -1,0 +1,11 @@
+{
+    "assets":[{
+        "name":"img1.jpg",
+        "duration":10
+    },
+    {
+        "name":"vid.mp4",
+        "duration":20
+    }
+]
+}
