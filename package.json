@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/geeveehegde/photo-frame#readme",
   "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
     "jimp": "^0.16.1",
     "jpeg-autorotate": "^6.0.0",
     "puppeteer-core": "^5.2.1"

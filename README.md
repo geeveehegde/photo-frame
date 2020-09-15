@@ -1,6 +1,6 @@
 # photo-frame
 
-photo and video player using Nodejs and puppeteer.
+A puppeteer and node js project to play images and videos on chromium browser. Supports images of JPG, GIF, PNG formats and videos of mp4, mov, flv, mkv formats.  
 
 ## Installation
 Install chromium-browser
