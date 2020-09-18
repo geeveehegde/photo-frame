@@ -1,6 +1,6 @@
 # photo-frame
 
-A puppeteer and node js project to play images and videos on chromium browser. Supports images of JPG, GIF, PNG formats and videos of mp4, mov, flv, mkv formats.  
+A puppeteer and node js project to play images and videos on chromium browser. Supports images of JPG, GIF, PNG formats and videos of mp4, mov, flv, mkv formats. Designed to work on Linux platforms.  
 
 ## Installation
 Install chromium-browser
@@ -24,5 +24,5 @@ sudo apt install ffmpeg
 2. Change DURATION in main.js file to change the duration of displaying each asset.
     Default to 10 seconds.
 3. Give the screen resolution. Default resolution is 1366X786.
-4. Set FIT_TO_SCREEN to show the image in fullscreen. Default to false
+4. Set FIT_TO_SCREEN to show the image in fullscreen. Default to true
 3. Run main.js file
