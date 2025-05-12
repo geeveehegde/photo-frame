@@ -25,4 +25,25 @@ sudo apt install ffmpeg
     Default to 10 seconds.
 3. Give the screen resolution. Default resolution is 1366X786.
 4. Set FIT_TO_SCREEN to show the image in fullscreen. Default to true
-3. Run main.js file
+5. Build the application:
+   ```bash
+   npm run build
+   ```
+6. Run the application:
+   ```bash
+   npm start
+   ```
+
+## Development
+The project uses webpack to bundle the JavaScript files. The assets and playlist folders are excluded from the bundle as they are configured to download files later.
+
+To make changes to the code:
+1. Modify the source files as needed
+2. Rebuild the application:
+   ```bash
+   npm run build
+   ```
+3. Start the application with:
+   ```bash
+   npm start
+   ```

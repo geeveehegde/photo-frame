@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Photo Frame
+Comment=Auto-start Photo Frame application
+Exec=/bin/bash /home/pi/photo-frame/autostart/autostart.sh
+Path=/home/pi/photo-frame
+Terminal=false
+X-GNOME-Autostart-enabled=true

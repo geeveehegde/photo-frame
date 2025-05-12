@@ -1,1 +1,5 @@
-{"assets":[{"name":"file_example_GIF_500kB.gif","type":"image","duration":20},{"name":"file_example_PNG_500kB.png","type":"image","duration":20},{"name":"file_example_TIFF_1MB.tiff","type":"image","duration":20}]}
+{"assets":[
+    {"name":"file_example_GIF_500kB.gif","type":"image","duration":20},
+    {"name":"file_example_PNG_500kB.png","type":"image","duration":20},
+    {"name":"file_example_TIFF_1MB.tiff","type":"image","duration":20}]
+}

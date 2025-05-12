@@ -2,10 +2,11 @@
   "name": "photo-frame-master",
   "version": "1.0.0",
   "description": "Photo and video display from puppeteer",
-  "main": "main.js",
+  "main": "photoframe.js",
   "type": "module",
   "scripts": {
-    "test": "node main.js"
+    "start": "node photoframe.js",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
